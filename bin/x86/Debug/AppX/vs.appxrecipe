@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BTRPG3T</Machine>
+    <WindowsUser>Phong</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>12386fbb-9253-4b20-9df9-0fc10f083828</PackageIdentityName>
+    <PackageIdentityPublisher>CN=xuan hung</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>CE7E8B4700326C937F596F440E99E4CC713864CBE61057415DF098FB3D5382D2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>12386fbb-9253-4b20-9df9-0fc10f083828_1.0.0.0_x86__9tvbgetx5fke2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>12386fbb-9253-4b20-9df9-0fc10f083828_9tvbgetx5fke2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>12386fbb-9253-4b20-9df9-0fc10f083828</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=xuan hung</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-07T16:19:52.881</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\T1808AHelloUWP.exe">
+      <PackagePath>entrypoint\T1808AHelloUWP.exe</PackagePath>
+      <Modified>2019-11-07T16:19:51.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\.nuget\packages\newtonsoft.json\12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2019-04-21T18:06:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2019-03-12T15:22:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\.nuget\packages\sqlite.uwp.native\3.12.3\runtimes\win10-x86\native\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2016-08-09T04:08:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\.nuget\packages\sqlitepcl\3.8.7.2\lib\netcore451\SQLitePCL.dll">
+      <PackagePath>SQLitePCL.dll</PackagePath>
+      <Modified>2014-12-09T04:04:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T11:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\.nuget\packages\sqlitepcl\3.8.7.2\build\netcore451\SQLitePCL.Ext.dll">
+      <PackagePath>SQLitePCL.Ext.dll</PackagePath>
+      <Modified>2014-12-09T04:04:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2019-10-31T10:54:29.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-10-31T10:54:29.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-31T10:54:29.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-31T10:54:29.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-31T10:54:29.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-31T10:54:29.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-31T10:54:29.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-31T10:54:29.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\T1808AHelloUWP.xr.xml">
+      <PackagePath>T1808AHelloUWP.xr.xml</PackagePath>
+      <Modified>2019-10-31T15:10:53.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Demo\NavigationViewDemo.xbf">
+      <PackagePath>Demo\NavigationViewDemo.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Demo\ScrollViewerDemo.xbf">
+      <PackagePath>Demo\ScrollViewerDemo.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Pages\CreateSong.xbf">
+      <PackagePath>Pages\CreateSong.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Pages\ListSongPage.xbf">
+      <PackagePath>Pages\ListSongPage.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Pages\LoginPage.xbf">
+      <PackagePath>Pages\LoginPage.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Pages\RegisterPage.xbf">
+      <PackagePath>Pages\RegisterPage.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Pages\UserInformation.xbf">
+      <PackagePath>Pages\UserInformation.xbf</PackagePath>
+      <Modified>2019-11-07T16:19:51.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T10:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-11-07T04:27:49.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Phong\Downloads\t1808a-uwp\T1808AHelloUWP\bin\x86\Debug\Core\T1808AHelloUWP.exe">
+      <PackagePath>T1808AHelloUWP.exe</PackagePath>
+      <Modified>2019-11-07T16:19:52.851</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Phong\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Phong\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Phong\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Phong\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Phong\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Phong\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Phong\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Phong\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Phong\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Phong\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Phong\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Phong\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
